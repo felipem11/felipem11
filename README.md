@@ -4,7 +4,7 @@
 
 Hey there, 
 
-I am Software Engineer from Brazil ![](br.png) and living in Poland ![](pl.png). 
+I am a Software Engineer from Brazil ![](br.png) and living in Poland ![](pl.png). 
 
 Felipe Martins
 
