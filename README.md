@@ -10,7 +10,7 @@ Felipe Martins
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/felipem11][2]
+- LinkedIn: [linkedin.com/in/felipe-martins01][2]
 
 
 
