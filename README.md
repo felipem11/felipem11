@@ -47,14 +47,4 @@ Felipe Martins
 
 [1]:
 https://felipem11.me/?utm_source=github.com&utm_medium=gh-profile-felipem11&utm_campaign=felipem11
-[2]: https://www.linkedin.com/in/felipem11
-[3]: https://twitter.com/intent/follow?screen_name=felipem11
-[4]: https://blog.felipem11.me
-[5]:
-https://newsletter.felipem11.me?utm_source=github.com&utm_medium=gh-profile-felipem11&utm_campaign=felipem11
-[6]: https://medium.com/@felipem11
-[7]: https://hashnode.com/@felipem11
-[8]: https://nttr.st/2QoQhEb
-[9]: https://nttr.st/2YEatXb
-[10]: https://dev.to/felipem11
-[11]: fhttps://www.youtube.com/felipem11?sub_confirmation=1
+[2]: https://www.linkedin.com/in/felipe-martins01
