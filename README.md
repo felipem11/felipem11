@@ -2,11 +2,13 @@
 
 <!-- [![GitHub Views](https://komarev.com/ghpvc/?username=felipem11&color=FAC151)][1] -->
 
-Hey there, 
+Hi there, 
 
-I am a Software Engineer from Brazil ![](br.png) and living in Poland ![](pl.png). 
+I'm a Software Engineer from Brazil ![](br.png) and living in Poland ![](pl.png) working with Java. <br>
+Curently I'm learning Scala and Spark
 
-Felipe Martins
+Felipe Martins,<br>
+Love dogs and a huge Horror movies fan!!
 
 ## 📬 Get in touch
 
@@ -38,7 +40,11 @@ Felipe Martins
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Openshift-3.11-1abc9c.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Splunk-7.3.0-green.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SonarQube-7.3.0-red.svg?style=for-the-badge"/>
 
+<br><br>
 </p>
 
 [1]:
