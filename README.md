@@ -5,7 +5,7 @@
 Hi there, 
 
 I'm a Software Engineer from Brazil ![](br.png) and living in Poland ![](pl.png) working with Java. <br>
-Curently I'm learning Scala and Spark
+Currently I'm learning Scala and Spark
 
 Felipe Martins,<br>
 dog lover and a huge Horror movies fan!!<br>
@@ -58,7 +58,7 @@ dog lover and a huge Horror movies fan!!<br>
 <img src="https://img.shields.io/badge/Openshift-3.11-1abc9c.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Splunk-7.3.0-green.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SonarQube-7.3.0-red.svg?style=for-the-badge"/>
-<img src="pl.png" />
+
 <br><br>
 </p>
 
