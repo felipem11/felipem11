@@ -1,4 +1,4 @@
-[![felipem11](https://media-exp1.licdn.com/dms/image/sync/C4D27AQGl2E_-e_0InQ/articleshare-shrink_1280_800/0/1620043891001?e=1620133200&v=beta&t=H9pOFVL-uByxKwc4-1qf0XoW6PvsAu00Vk_pb0aKHI8)][1]
+![felipem11](https://media-exp1.licdn.com/dms/image/sync/C4D27AQGl2E_-e_0InQ/articleshare-shrink_1280_800/0/1620043891001?e=1620133200&v=beta&t=H9pOFVL-uByxKwc4-1qf0XoW6PvsAu00Vk_pb0aKHI8)][1]
 
 <!-- [![GitHub Views](https://komarev.com/ghpvc/?username=felipem11&color=FAC151)][1] -->
 
@@ -8,7 +8,18 @@ I'm a Software Engineer from Brazil ![](br.png) and living in Poland ![](pl.png)
 Curently I'm learning Scala and Spark
 
 Felipe Martins,<br>
-Love dogs and a huge Horror movies fan!!
+dog lover and a huge Horror movies fan!!<br>
+![](Chucky.svg){:height="36px" width="36px"}<br>
+
+<img src="./Chucky.svg" width="200">
+<img src="Chucky.svg" width="20">
+
+![minipic](Chucky.svg)
+<img src="./Chucky.svg"/>
+<img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+
+[<img src="Chucky.svg" width="250"/>](Chucky.svg)
+
 
 ## 📬 Get in touch
 
@@ -43,7 +54,7 @@ Love dogs and a huge Horror movies fan!!
 <img src="https://img.shields.io/badge/Openshift-3.11-1abc9c.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Splunk-7.3.0-green.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SonarQube-7.3.0-red.svg?style=for-the-badge"/>
-
+<img src="pl.png" />
 <br><br>
 </p>
 
