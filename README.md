@@ -9,16 +9,20 @@ Curently I'm learning Scala and Spark
 
 Felipe Martins,<br>
 dog lover and a huge Horror movies fan!!<br>
-![](Chucky.svg){:height="36px" width="36px"}<br>
 
-<img src="./Chucky.svg" width="200">
-<img src="Chucky.svg" width="20">
 
-![minipic](Chucky.svg)
-<img src="./Chucky.svg"/>
-<img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-
-[<img src="Chucky.svg" width="250"/>](Chucky.svg)
+<div align="center">
+    <img src="icons/Friday_13.svg" width="20" >
+    <img src="icons/Chucky.svg" width="20">
+    <img src="icons/Dracula.svg" width="20">
+    <img src="icons/Frankenstein.svg" width="20">
+    <img src="icons/Ghostface.svg" width="20">
+    <img src="icons/Hannibal_Lecter.svg" width="20">
+    <img src="icons/Marshmallow.svg" width="20">
+    <img src="icons/Pennywise.svg" width="20">
+    <img src="icons/Poltergeist.svg" width="20">
+    <img src="icons/Samara_the_ring.svg" width="20">
+</div>
 
 
 ## 📬 Get in touch
