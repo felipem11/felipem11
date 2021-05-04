@@ -12,16 +12,16 @@ dog lover and a huge Horror movies fan!!<br>
 
 
 <div align="center">
-    <img src="icons/Friday_13.svg" width="35" >
-    <img src="icons/Chucky.svg" width="35">
-    <img src="icons/Dracula.svg" width="35">
-    <img src="icons/Frankenstein.svg" width="35">
-    <img src="icons/Ghostface.svg" width="35">
-    <img src="icons/Hannibal_Lecter.svg" width="35">
-    <img src="icons/Marshmallow.svg" width="35">
-    <img src="icons/Pennywise.svg" width="35">
-    <img src="icons/Poltergeist.svg" width="35">
-    <img src="icons/Samara_the_ring.svg" width="35">
+    <img src="icons/Friday_13.svg" width="35" height="35">
+    <img src="icons/Chucky.svg" width="35" height="35">
+    <img src="icons/Dracula.svg" width="35" height="35">
+    <img src="icons/Frankenstein.svg" width="35" height="35">
+    <img src="icons/Ghostface.svg" width="35" height="35">
+    <img src="icons/Hannibal_Lecter.svg" width="35" height="35">
+    <img src="icons/Marshmallow.svg" width="35" height="35">
+    <img src="icons/Pennywise.svg" width="35" height="35">
+    <img src="icons/Poltergeist.svg" width="35" height="35">
+    <img src="icons/Samara_the_ring.svg" width="35" height="35">
 </div>
 
 
