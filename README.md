@@ -1,6 +1,5 @@
-![felipem11](https://media-exp1.licdn.com/dms/image/sync/C4D27AQGl2E_-e_0InQ/articleshare-shrink_1280_800/0/1620043891001?e=1620133200&v=beta&t=H9pOFVL-uByxKwc4-1qf0XoW6PvsAu00Vk_pb0aKHI8)
-
-<!-- [![GitHub Views](https://komarev.com/ghpvc/?username=felipem11&color=FAC151)][1] -->
+![](logo.png)
+<!-- [![GitHub Views](https://komarev.com/ghpvc/?username=felipem11&color=FAC151)][2] -->
 
 Hi there, 
 
