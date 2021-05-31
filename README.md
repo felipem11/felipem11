@@ -3,7 +3,7 @@
 
 Hi there, 
 
-I'm a Software Engineer from Brazil ![](br.png) and living in Poland ![](pl.png) working with Java. <br>
+I'm a Software Engineer ![](br.png) --> (pl.png). <br>
 Currently I'm learning Scala and Spark
 
 Felipe Martins,<br>
