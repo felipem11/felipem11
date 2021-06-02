@@ -28,12 +28,10 @@ dog lover and a huge Horror movies fan!!<br>
 
 - LinkedIn: [linkedin.com/in/felipe-martins01][2]
 
-  ![](./linkedin-badge.svg)
 
 
 
 ## &#x1f4c8; My GitHub Stats
-
 <p align="center">
   <a href="https://github.com/felipem11/felipem11">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?show_bg=1&username=felipem11&hide=TSQL,html&count_private=false&theme=radical" />
