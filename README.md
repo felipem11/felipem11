@@ -4,7 +4,6 @@
 Hi there, 
 
 I'm a Software Engineer <img src="br.png" width="25" height="15"> --> <img src="pl2.png" width="25" height="15">. <br>
-Currently I'm learning Scala and Spark
 
 Felipe Martins,<br>
 dog lover and a huge Horror movies fan!!<br>
