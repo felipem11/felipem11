@@ -5,8 +5,10 @@ Hi there,
 
 I'm a Software Engineer <img src="br.png" width="25" height="15"> --> <img src="pl2.png" width="25" height="15">. <br>
 
-Felipe Martins,<br>
-dog lover and a huge Horror movies fan!!<br>
+Felipe Martins, /
+dog lover and a huge Horror movie fan!!
+
+And Sim Racer in my free time!!
 
 
 <div align="center">
